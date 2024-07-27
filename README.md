@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rachit Kumar</h1>
 <h3 align="center">A passionate Web Developer and Machine Learning Enthusiast</h3>
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rchitk23&show_icons=true&theme=radical)
+
+## GitHub Metrics
+![Metrics](https://metrics.lecoq.io/rchitk23?template=classic&languages=1&stars=1&achievements=1&people=1&projects=1)
+
 <div align="center">
   <a href="https://github.com/rchitk23/rachitgithub23"><img src="https://img.shields.io/github/followers/rchitk23?label=Follow&style=social" alt="GitHub Followers"></a>
   <a href="mailto:rachitjee9@gmail.com"><img src="https://img.shields.io/badge/Email-rachitjee9@gmail.com-blue?style=flat&logo=gmail" alt="Email"></a>
