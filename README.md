@@ -3,13 +3,13 @@
 
 <p align="center">
   <a href="https://github.com/rchitk23/rachitgithub23"><img src="https://img.shields.io/github/followers/rchitk23?label=Follow&style=social" alt="GitHub Followers"></a>
-  <a href="mailto:rachitjee9@gmail.com"><img src="https://img.shields.io/badge/Email-rachitjee9@gmail.com-blue?style=flat&logo=gmail"></a>
+  <a href="mailto:rachitjee9@gmail.com"><img src="https://img.shields.io/badge/Email-rachitjee9@gmail.com-blue?style=flat&logo=gmail" alt="Email"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DevOps-Learning-brightgreen">
-  <img src="https://img.shields.io/badge/Web_Development-Experienced-blue">
-  <img src="https://img.shields.io/badge/Machine_Learning-Enthusiast-yellow">
+  <img src="https://img.shields.io/badge/DevOps-Learning-brightgreen" alt="DevOps Learning">
+  <img src="https://img.shields.io/badge/Web_Development-Experienced-blue" alt="Web Development Experienced">
+  <img src="https://img.shields.io/badge/Machine_Learning-Enthusiast-yellow" alt="Machine Learning Enthusiast">
 </p>
 
 <p align="center">
